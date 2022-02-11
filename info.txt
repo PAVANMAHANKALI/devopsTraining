@@ -1,2 +1,3 @@
 welcome devops
 training for learning
+added new line
